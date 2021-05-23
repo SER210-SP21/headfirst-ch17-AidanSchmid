@@ -45,7 +45,7 @@ public class DrinkCategoryActivity extends Activity {
     @Override
     public void onDestroy(){
         super.onDestroy();
-            super.onDestroy();
+
             cursor.close();
             db.close();
         }

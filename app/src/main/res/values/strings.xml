@@ -7,5 +7,7 @@
             <item>Stores</item>
         </string-array>
         <string name="starbuzz_logo">Starbuzz logo</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorites">favorites</string>
 
 </resources>
